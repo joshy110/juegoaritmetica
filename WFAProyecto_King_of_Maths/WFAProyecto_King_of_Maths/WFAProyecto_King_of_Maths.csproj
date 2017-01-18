@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07066887-61C3-4470-9BC6-43A386A469DD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WFAProyecto_King_of_Maths</RootNamespace>
+    <AssemblyName>WFAProyecto_King_of_Maths</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\Instalador proyecto 1\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>One Ring To Rule Them All...ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6F335753E068E13114F3FE9FD54F6B3967C45620</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WFAProyecto_King_of_Maths_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clase_Jugador.cs" />
+    <Compile Include="ClassDivision_Niveles.cs" />
+    <Compile Include="ClassDIVyMOD_Niveles.cs" />
+    <Compile Include="Classe_Operaciones_Logicas.cs" />
+    <Compile Include="ClassMultiplicación_Niveles.cs" />
+    <Compile Include="ClassResta_Niveles.cs" />
+    <Compile Include="ClassSuma_Niveles.cs" />
+    <Compile Include="Estadisticas_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estadisticas_Usuario.Designer.cs">
+      <DependentUpon>Estadisticas_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_de_Mundos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_de_Mundos.Designer.cs">
+      <DependentUpon>Menu_de_Mundos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Inicio.Designer.cs">
+      <DependentUpon>Menu_Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles_DIVISION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles_DIVISION.Designer.cs">
+      <DependentUpon>Niveles_DIVISION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles_DIV_MOD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles_DIV_MOD.Designer.cs">
+      <DependentUpon>Niveles_DIV_MOD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles_MULTIPLICACION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles_MULTIPLICACION.Designer.cs">
+      <DependentUpon>Niveles_MULTIPLICACION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles_Opera_Desigua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles_Opera_Desigua.Designer.cs">
+      <DependentUpon>Niveles_Opera_Desigua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles_Opera_Logicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles_Opera_Logicos.Designer.cs">
+      <DependentUpon>Niveles_Opera_Logicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles_RESTA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles_RESTA.Designer.cs">
+      <DependentUpon>Niveles_RESTA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Niveles_SUMA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Niveles_SUMA.Designer.cs">
+      <DependentUpon>Niveles_SUMA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Estadisticas_Usuario.resx">
+      <DependentUpon>Estadisticas_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_de_Mundos.resx">
+      <DependentUpon>Menu_de_Mundos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Inicio.resx">
+      <DependentUpon>Menu_Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles_DIVISION.resx">
+      <DependentUpon>Niveles_DIVISION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles_DIV_MOD.resx">
+      <DependentUpon>Niveles_DIV_MOD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles_MULTIPLICACION.resx">
+      <DependentUpon>Niveles_MULTIPLICACION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles_Opera_Desigua.resx">
+      <DependentUpon>Niveles_Opera_Desigua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles_Opera_Logicos.resx">
+      <DependentUpon>Niveles_Opera_Logicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles_RESTA.resx">
+      <DependentUpon>Niveles_RESTA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Niveles_SUMA.resx">
+      <DependentUpon>Niveles_SUMA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="WFAProyecto_King_of_Maths_ClaveTemporal.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Games.ico" />
+    <Content Include="One Ring To Rule Them All...ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,50 @@
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.exe.config
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.exe
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.pdb
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Properties.Resources.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.csproj.GenerateResource.Cache
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.exe
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.pdb
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Estadisticas_Usuario.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Menu_de_Mundos.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Menu_Inicio.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_SUMA.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_RESTA.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_MULTIPLICACION.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_DIVISION.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_DIV_MOD.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_Opera_Desigua.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_Opera_Logicos.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.csprojResolveAssemblyReference.cache
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.exe.manifest
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.application
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.exe.manifest
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.application
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.exe.config
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.exe
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.pdb
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.exe.manifest
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.application
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.exe
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.pdb
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.csprojResolveAssemblyReference.cache
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Estadisticas_Usuario.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Menu_de_Mundos.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Menu_Inicio.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_DIVISION.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_DIV_MOD.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_MULTIPLICACION.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_Opera_Desigua.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_Opera_Logicos.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_RESTA.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Niveles_SUMA.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.Properties.Resources.resources
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.csproj.GenerateResource.Cache
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.exe.manifest
+C:\Users\josue\Documents\URL\Primer ciclo\intro a la pogra\Tareas Lab progra\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.application
+C:\Users\josue\OneDrive\intro a la pogra\Proyectos\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.exe.config
+C:\Users\josue\OneDrive\intro a la pogra\Proyectos\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.exe
+C:\Users\josue\OneDrive\intro a la pogra\Proyectos\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.pdb
+C:\Users\josue\OneDrive\URL\PRIMER CICLO\intro a la pogra\Proyectos\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\bin\Debug\WFAProyecto_King_of_Maths.exe.config
+C:\Users\josue\OneDrive\URL\PRIMER CICLO\intro a la pogra\Proyectos\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.exe
+C:\Users\josue\OneDrive\URL\PRIMER CICLO\intro a la pogra\Proyectos\Proyecto 1\WFAProyecto_King_of_Maths\WFAProyecto_King_of_Maths\obj\Debug\WFAProyecto_King_of_Maths.pdb

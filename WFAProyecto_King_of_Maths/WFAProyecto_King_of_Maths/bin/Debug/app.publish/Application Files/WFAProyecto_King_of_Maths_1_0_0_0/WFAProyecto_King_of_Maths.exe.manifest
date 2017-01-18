@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="WFAProyecto_King_of_Maths.exe" version="1.0.0.0" publicKeyToken="179745f6b8d9055f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="One Ring To Rule Them All...ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WFAProyecto_King_of_Maths" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="WFAProyecto_King_of_Maths.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WFAProyecto_King_of_Maths.exe" size="1401344">
+      <assemblyIdentity name="WFAProyecto_King_of_Maths" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ftRWD1lrTxZHfOcesQ4R8OdOJiiZUDwz9Y+x9H/jFog=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Games.ico" size="235388">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>teUZGPsG2G7Kt6m6PPjt4e4Q4uPoAV+8m4+/7aOHCyo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="One Ring To Rule Them All...ico" size="92854">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2xsTqRfTEaeeb9HZIeuyu0EbRxifYJNDyGIiOcd9oDw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="WFAProyecto_King_of_Maths.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JOSHY-PC\josue" issuerKeyHash="1c7392dc4f6118a36afbc0abcde55cb90c0296b0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>e4N7ZWp8FgmiNX17aRKV8tLyjcANFCk26roxu01/e8w=</DigestValue></Reference></SignedInfo><SignatureValue>FualYvBnto3nwFqk2YvSsot/NZccgmHdM/fNSOUi4IxNx2yosQjEa9YOtQc75q8OnsIkkHkGLCWTuaRU5DQ2IEJS+b8q+5hP4DE5F+2QtIgoHvyExvv8/x03vLBjSBMvBl/bMtQa3RaemKUNqurTT60jIENze5EN9mOPl27v6ko=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uTXZhqY0OeiRfdGN7PF1NN8pIYq3enBsZ+D5vKKacFqntM5DONwhUA6YMdKh6qHWNKZDKgn6LmPLe7OTHnZSER/Hc0wNWua7y9pGFFi/tg75WSLJVi2MapCjmWeF9d8gwAEMZduySk0D3Y0iA3dXQNpIo0C0ZmE07rPa9lg+HW8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="cc7b7f4dbb31baea3629140dc08df2d2f29512697b7d35a209167c6a657b837b" Description="" Url=""><as:assemblyIdentity name="WFAProyecto_King_of_Maths.exe" version="1.0.0.0" publicKeyToken="179745f6b8d9055f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JOSHY-PC\josue</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>GC0vMPmHrMt74JhlR+sLvlsAfBbFs4lBal9BCcy/5Lw=</DigestValue></Reference></SignedInfo><SignatureValue>h+cIRHkfWvjGv8EwnmYC6EWgkWvZi0FPJR2PKxJgrWMsO8SuowoWKVK8VqAVV4C45+ffMVeGeBVCWVBISUjilKxHs58R7w1S6zkr4A6y/RD2V6zV+PDbgEIgd20hV4OnDYgRWYA/A/i9KNsxl81HscOB3ixvrvHAxZ5nqs1QnhU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uTXZhqY0OeiRfdGN7PF1NN8pIYq3enBsZ+D5vKKacFqntM5DONwhUA6YMdKh6qHWNKZDKgn6LmPLe7OTHnZSER/Hc0wNWua7y9pGFFi/tg75WSLJVi2MapCjmWeF9d8gwAEMZduySk0D3Y0iA3dXQNpIo0C0ZmE07rPa9lg+HW8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQNmnhvnINloRHNdtWThewVzANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwASgBPAFMASABZAC0AUABDAFwAagBvAHMAdQBlMB4XDTE0MDMxODAwNDA0NloXDTE1MDMxODA2NDA0NlowJzElMCMGA1UEAx4cAEoATwBTAEgAWQAtAFAAQwBcAGoAbwBzAHUAZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuTXZhqY0OeiRfdGN7PF1NN8pIYq3enBsZ+D5vKKacFqntM5DONwhUA6YMdKh6qHWNKZDKgn6LmPLe7OTHnZSER/Hc0wNWua7y9pGFFi/tg75WSLJVi2MapCjmWeF9d8gwAEMZduySk0D3Y0iA3dXQNpIo0C0ZmE07rPa9lg+HW8CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAwJj38RkasoDTCnGtrSqDbaLwRWOEJUVmsFomPtaFs3s+5am5Sfwxu0+zeOrdyCr6leoSnDSuMgCbmT+vbGvTeau/XDXsCIYHqtGIEAW390IrWXJ8HSCRZHc5frRpmGMImPEcXz7Z1GesmwYSwr9QqHmZ0tyiQXBaYiWZyZrN+Lw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
